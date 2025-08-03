@@ -1,4 +1,4 @@
-Welcome to my Software Quality Assurance (SQA) Portfolio!  
+Welcome to my Software Quality Assurance (SQA).  
 This repository contains my work related to manual testing, test case design, bug reporting, and basic automation tools like Selenium and JMeter.
 
  📌 About Me
