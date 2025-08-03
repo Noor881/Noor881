@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Noor881
-- 👀 I’m interested in c++...
-- 🌱 I’m currently learning c++ ...
-- 💞️ I’m looking to collaborate on c++...
-- 📫 How to reach me snowprince283@gmail.com...
+Welcome to my Software Quality Assurance (SQA) Portfolio!  
+This repository contains my work related to manual testing, test case design, bug reporting, and basic automation tools like Selenium and JMeter.
 
-<!---
-Noor881/Noor881 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 📌 About Me
+
+I’m Muhammad Noor Ul Huda, an aspiring QA Engineer passionate about ensuring high-quality software through effective testing and attention to detail. I specialize in manual testing, test documentation, and UI/UX analysis.
+
+ 🧠 Skills
+
+- ✅ Manual Testing
+- 📝 Test Case Writing & Execution
+- 🐞 Bug Reporting (Excel, Jira)
+- 🧰 Tools: Selenium (Basics), JMeter (Basics)
+- 🎨 UI/UX Understanding
+- 🔍 Attention to Detail
